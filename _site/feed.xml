@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-12T18:19:01+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dev Scraps</title><subtitle>I spend most of my time performing the act of software creation and destruction, this place is about that, and whatever else I hit my head up against.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/11/12/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-11-12T18:04:32+07:00</published><updated>2019-11-12T18:04:32+07:00</updated><id>http://localhost:4000/jekyll/update/2019/11/12/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/11/12/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">My Just Write a First Post Post</title><link href="http://localhost:4000/blogging/2019/05/04/my-just-write-a-first-post-post.html" rel="alternate" type="text/html" title="My Just Write a First Post Post" /><published>2019-05-04T15:46:23+07:00</published><updated>2019-05-04T15:46:23+07:00</updated><id>http://localhost:4000/blogging/2019/05/04/my-just-write-a-first-post-post</id><content type="html" xml:base="http://localhost:4000/blogging/2019/05/04/my-just-write-a-first-post-post.html">&lt;p&gt;Being a programmer and generally someone who spends a great
+deal of their time on the web, blogs have been an ideal source of interest 
+and knowledge.  Like many others in my industry, I’ve been wanting to say I have a blog for.. alwhile.
+I could go back as far as school days dabbling in HTML and CSS usually lent itself
+to creating a blog site of some kind.  I would try different hosts 
+beginning with Geocities, then Angelfire and find myself looking further into 
+Client/Server Architecture with the inevitable Wordpress.  Initially I wanted to 
+blog, but the real attraction was to delve into the
+technologies.  As a result, no blog made it any further than a couple 
+initial statements about my fancy new blog.  Decades later many kinds of 
+newfangled ways to make your own blog has arisen to make it even easier and I still don’t have a 
+blog I can present.  Here is another attempt.&lt;/p&gt;
+
+&lt;p&gt;This time I have cleared all of my reminders and scheduled tasks to ‘Begin the blog’, 
+or ‘write post on..’, and didn’t allow myself to fork my attention to 
+deciding blogging frameworks, or how I could easily publish from Emacs Org Mode, 
+or which languages I could build and future rewrite a blogging application in. 
+Yes, this was my spare time we’re talking about, and when considering a blog
+the implementation details always seemed to nudge ahead, in my time I could play around if I wanted to.
+  This always lead to not having a blog of course.&lt;/p&gt;
+
+&lt;p&gt;Where to from here? A bit like going to the gym I’m just getting on with it. I’m picking up from my last
+attempt using Github Pages which had been sitting idle for 5 years,
+without a post that I allowed to remain. I have a mounting pile of posts to write and complete.
+It has become a habit to 
+take chunks of daily notes of ideas and thoughts, with the intention that some day the bits
+will form a helpful passage in a blog, 
+the only thing was that they didn’t budge from their scribbly note form into a blog all by themselves. 
+Many of my initial posts will be picked off the pile as I see fit, touched up into 
+that something that makes sense to others, and posted with a gentle sigh of relief.
+This will mean a number of different type of posts being published some short, some
+long, some introspective, surely some technical and hopefully helpful,
+some perhaps a bit of a ramble but I’ll be happy about the process of learning
+through writing.&lt;/p&gt;
+
+&lt;p&gt;Thank you kindly for your interest in reading thus far, hopefully you find 
+it beneficial and please reach out to me if you have would like to
+say something nice or to find out more.&lt;/p&gt;</content><author><name></name></author><summary type="html">Being a programmer and generally someone who spends a great deal of their time on the web, blogs have been an ideal source of interest and knowledge. Like many others in my industry, I’ve been wanting to say I have a blog for.. alwhile. I could go back as far as school days dabbling in HTML and CSS usually lent itself to creating a blog site of some kind. I would try different hosts beginning with Geocities, then Angelfire and find myself looking further into Client/Server Architecture with the inevitable Wordpress. Initially I wanted to blog, but the real attraction was to delve into the technologies. As a result, no blog made it any further than a couple initial statements about my fancy new blog. Decades later many kinds of newfangled ways to make your own blog has arisen to make it even easier and I still don’t have a blog I can present. Here is another attempt.</summary></entry></feed>
